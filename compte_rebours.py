@@ -28,3 +28,6 @@ while len(c) >2 :
 
 while c[0] not in ligne or c[1] not in colonne:
     c=input("entrer un caractère")
+    
+def amour():
+    pass
