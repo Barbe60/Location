@@ -31,3 +31,6 @@ while c[0] not in ligne or c[1] not in colonne:
     
 def amour():
     pass
+    
+def test():
+    pass
